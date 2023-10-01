@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">la2</string>
+    <string name="TituloL1">Pantalla inicial del proyecto</string>
+    <string name="titulo1l1">Boton que no hace nada xD</string>
+    <string name="descimagen1">Logo tecmn</string>
+    <string name="titulol2">Este es el segundo layout</string>
+    <string name="titulomenu">menu principal</string>
+    <string name="sumanum">Suma de dos numeros</string>
+    <string name="tnum1">Ingrese el primer valor</string>
+    <string name="tnum2">Ingrese el segundo valor</string>
+    <string name="emergente">Ingrese datos aqui</string>
+    <string name="emergente1">Ingrese datos aqui</string>
+    <string name="tbtcalcular">calcular</string>
+
+</resources>
